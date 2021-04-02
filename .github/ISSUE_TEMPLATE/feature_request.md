@@ -1,5 +1,5 @@
 ---
-name: Feature request
+name: server
 about: Suggest an idea for Minehut
 title: ''
 labels: feature request
@@ -28,18 +28,28 @@ If you have a feature suggestion for Minehut, read the following:
 ### Feature request
 
 **Checklist**
-- [ ] I have read and agree to the README (found on https://github.com/Minehut/Meta)
+- [x ] I have read and agree to the README (found on https://github.com/Minehut/Meta)
 - [ ] This is not a bug report, support request or plugin request
 - [ ] I have searched the Issue Tracker to make sure this is not a duplicate issue
-- [ ] This issue does not contain any sensitive information 
+- [ x] This issue does not contain any sensitive information 
 
 **Platform**
 <!-- Which platform is this idea for? Discord, Website or In-game?
 If in-game: Java, Bedrock or both? -->
-
+website
 **Describe the feature**
 <!-- What feature are you suggesting? Include a clear and concise description of the feature -->
-
+Ok so server.proprties is locked so why not when you click it, it will open a special server.proprties thing that you all write so you can like put 2 options that you can edit example:
+players
+max height limit
+[this is an example]
+and only those you put for the max example
+```
+max players: 10
+server: blabla
+op: op
+``` 
+so when you open the server.proprties it shows this
 **How the feature is useful**
 <!-- Who does the feature benefit? How is it useful to people? -->
 
